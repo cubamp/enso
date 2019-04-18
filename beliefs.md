@@ -1,1 +1,3 @@
-#Belief on how things are and how they should be. Credit to Buster
+# Belief on how things are and how they should be
+* [Inspired by Buster](https://github.com/busterbenson/public/edit/master/book-of-beliefs.md)
+
