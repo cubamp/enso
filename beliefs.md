@@ -1,7 +1,5 @@
 # Beliefs on how things are and how they should be
-* [Inspired by Buster](https://github.com/busterbenson/public/edit/master/book-of-beliefs.md)
-
-* My goals here can best be expressed in the way Buster originally articulated his:
+* My goals here can best be expressed in the way [Buster originally articulated his](https://github.com/busterbenson/public/edit/master/book-of-beliefs.md):
   * *Get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. Keep this public to invite commentary and help keep me accountable.*
 
 ### Story arcs I may write:
